@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.5348a7f6.css",
-    "main.js": "/Portfolio/static/js/main.d93b8e35.js",
-    "static/media/cv.pdf": "/Portfolio/static/media/cv.1676dcdc83730930d888.pdf",
+    "main.js": "/Portfolio/static/js/main.9bb2d45e.js",
     "static/media/me-about2.jpg": "/Portfolio/static/media/me-about2.2123b730eb35c5ce9ed2.jpg",
     "static/media/business.png": "/Portfolio/static/media/business.cacddf7b4870e773cae1.png",
+    "static/media/Kamil_Smołecki_CV.pdf": "/Portfolio/static/media/Kamil_Smołecki_CV.1889ae5c5312fd736db3.pdf",
     "static/media/safenotes.png": "/Portfolio/static/media/safenotes.a15c6ef33623af6690f1.png",
     "static/media/outget.png": "/Portfolio/static/media/outget.ae7b0e8a1fa196199933.png",
     "index.html": "/Portfolio/index.html",
     "main.5348a7f6.css.map": "/Portfolio/static/css/main.5348a7f6.css.map",
-    "main.d93b8e35.js.map": "/Portfolio/static/js/main.d93b8e35.js.map"
+    "main.9bb2d45e.js.map": "/Portfolio/static/js/main.9bb2d45e.js.map"
   },
   "entrypoints": [
     "static/css/main.5348a7f6.css",
-    "static/js/main.d93b8e35.js"
+    "static/js/main.9bb2d45e.js"
   ]
 }
